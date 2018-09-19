@@ -37,7 +37,7 @@
 
 ## writing rendering system
 
-- [GitHub(repository)](https://github.com/wraith13/writing.md)
+- [GitHub(repository)](https://github.com/wraith13/writing)
 - [README](https://wraith13.github.io/writing/?@README.md)
 - [demo](https://wraith13.github.io/writing/?@demo/index.md)
 
