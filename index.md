@@ -24,17 +24,10 @@
 <iframe src="javascript:document.write('<body style=margin:0;padding:0px;font-size:3.0rem;overflow:hidden;>today: ' +new Date().getFullYear() +'-' + +(new Date().getMonth() +1) +'-' +new Date().getDate() +'(' +'日月火水木金土'.substr(new Date().getDay(), 1) +')</body>')" style="height:4.0rem; width:60.0rem;border-style:none;"></iframe>
 -->
 
-<!--[WRITING/]
-- [README](@README.md)
-- [@wraith13](wraith13.md)
--->
-<!--[NOWRITING]-->
-
-- [README](https://wraith13.github.io/writing/?@README.md)
+- [README](README.md)
 - [@wraith13](wraith13.md)
 
 <!--[/NOWRITING]-->
-
 
 ## [splatoon2 基礎講座](splatoon2/index.md)
 
@@ -42,23 +35,20 @@
 
 - [オススメの VSCODE 拡張](etc/recommend.vscode.extension.md)
 
+## writing rendering system
+
+- [GitHub(repository)](https://github.com/wraith13/writing.md)
+- [README](https://wraith13.github.io/writing/?@README.md)
+- [demo](https://wraith13.github.io/writing/?@demo/index.md)
+
 <!--[WRITING/]
-## instant
+### instant
 
 - [new markdown/slide](./?edit&text:)
 
-## extra
+### extra
 
 表示したい markdown の URL を入力してください。
 
 <input id="url-input" style="width:30vw;font-size:1em;line-height:1em;padding:0.2em;"> <button onclick="location.href='?'+encodeURIComponent(document.getElementById('url-input').value);" style="font-size:1em;line-height:1em;padding:0.2em;">開く</button>
 -->
-
-<!--[WRITING/]
-## [demo](@demo/index.md)
--->
-<!--[NOWRITING]-->
-
-## [demo](https://wraith13.github.io/writing/?@demo/index.md)
-
-<!--[/NOWRITING]-->
