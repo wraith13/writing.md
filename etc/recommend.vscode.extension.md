@@ -19,24 +19,36 @@
 {
     "theme":
     [
-        "../theme/chocolate.css",
-        "../animation/fade.css"
+        "@theme/chocolate.css",
+        "@animation/fade.css"
     ]
 }
 -->
 <!--[/REMARK]-->
 
-<img alt="writinghex" src="../writinghex.128.png" style="display:block;width:128px;height:128px;margin-left:auto;margin-right:auto;border-style:none;background:none;box-shadow:none;">
+<img alt="writinghex" src="@writinghex.128.png" style="display:block;width:128px;height:128px;margin-left:auto;margin-right:auto;border-style:none;background:none;box-shadow:none;">
 
 <!--[WRITING/]<span style="display:block;margin-left:auto;margin-right:auto;font-size:0.7em;width:450px;text-align:center;white-space:pre;">[markdown](?markdown) | [remark](?remark) | [reveal](?reveal)</span>-->
 
-## コード関連 VSCODE 拡張
+<!--[NOWRITING/]## コード関連 VSCODE 拡張-->
 
+<!--[NOWRITING/]
+こちらの拡張は vscode 本体に同様の機能が組み込まれた為、公開が中止されました。
 ### [Code Outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline)
 
 <img alt="Code Outline" src="https://patrys.gallerycdn.vsassets.io/extensions/patrys/vscode-code-outline/0.2.1/1526483150893/Microsoft.VisualStudio.Services.Icons.Default" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> コードのアウトラインをサイドパネルに表示してくれます。
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">お！ vscode さん、拡張でこれができるようになってたんか！ <a href="https://t.co/If0wabvJHS">pic.twitter.com/If0wabvJHS</a></p>&mdash; 👻 道化師 (@wraith13) <a href="https://twitter.com/wraith13/status/1001347414572154880?ref_src=twsrc%5Etfw">2018年5月29日</a></blockquote>
+-->
+
+<!--[NOWRITING/]
+こちらの拡張は vscode 本体に同様の機能が組み込まれました。
+### [Scope Bar](https://marketplace.visualstudio.com/items?itemName=amos402.scope-bar)
+
+<img alt="Scope Bar" src="https://raw.githubusercontent.com/amos402/vscode-scope-bar/master/images/icon.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> コード上のスコープをステータスバーに表示してくれます。加えて、スコープベースのジャンプ機能を提供してくれます。
+
+![screenshot](https://raw.githubusercontent.com/amos402/vscode-scope-bar/master/images/feature-1.jpg)
+-->
 
 ## ファイル関連 VSCODE 拡張
 
@@ -45,6 +57,12 @@
 <img alt="Active File in StatusBar" src="https://raw.githubusercontent.com/RoscoP/ActiveFileInStatusBar/master/media/icon.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> ファイルのフルパスをステータスバーに表示してくれます。
 
 ![screenshot](https://raw.githubusercontent.com/RoscoP/ActiveFileInStatusBar/master/media/ActiveFileInStatusBar.gif)
+
+### [filesize](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize)
+
+<img alt="Active File in StatusBar" src="https://raw.githubusercontent.com/mkxml/vscode-filesize/master/icon.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> ファイルのサイズをステータスバーに表示してくれます。
+
+![screenshot](https://camo.githubusercontent.com/77266295520c09b0860e7f504d4e532253251922/68747470733a2f2f636c6475702e636f6d2f5f5935324f2d55666b4b2e6a7067)
 
 ### [Local History](https://marketplace.visualstudio.com/items?itemName=xyz.local-history)
 
@@ -72,6 +90,12 @@
 
 ![screenshot](https://raw.githubusercontent.com/ryu1kn/vscode-text-marker/master/images/animations/public.gif)
 
+### [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
+
+<img alt="Output Colorizer" src="https://raw.githubusercontent.com/IBM-Cloud/vscode-log-output-colorizer/master/github-assets/icon.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> *.log ファイルの着色をしてくれ、そのことにより出力パネルの内容も着色してくれます。
+
+![screenshot](https://raw.githubusercontent.com/IBM-Bluemix/vscode-log-output-colorizer/master/github-assets/screenshot-1.jpg)
+
 ## 拙作の VSCODE 拡張
 
 ### [wandbox-vscode](https://marketplace.visualstudio.com/items?itemName=wraith13.wandbox-vscode)
@@ -83,6 +107,18 @@
 ### [multi-encode](https://marketplace.visualstudio.com/items?itemName=wraith13.multi-encode)
 
 <img alt="multi-encode" src="https://raw.githubusercontent.com/wraith13/multi-encode/master/images/multi-encode.128.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> 選択したテキストやクリップボードのテキストに対して予め設定で指定しておいた JavaScript のコードで変換をかけることができます。
+
+### [Zoom Bar](https://marketplace.visualstudio.com/items?itemName=wraith13.zoombar-vscode)
+
+<img alt="Zoom Bar" src="https://raw.githubusercontent.com/wraith13/zoombar-vscode/master/images/zoomhex.128.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> ステータスバーにズームの為の UI を提供します。
+
+![screenshot](https://raw.githubusercontent.com/wraith13/zoombar-vscode/master/images/how-to-use.png)
+
+### [System Information](https://marketplace.visualstudio.com/items?itemName=wraith13.sysinfo-vscode)
+
+<img alt="wandbox-vscode" src="https://raw.githubusercontent.com/wraith13/sysinfo-vscode/master/images/infohex.128.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> 拡張一覧を含む vscode のシステム情報を Markdown あるいは JSON で取得できます。
+
+![screenshot](https://raw.githubusercontent.com/wraith13/sysinfo-vscode/master/images/screenshot.png)
 
 ## end of document
 
