@@ -116,9 +116,15 @@
 
 ### [System Information](https://marketplace.visualstudio.com/items?itemName=wraith13.sysinfo-vscode)
 
-<img alt="wandbox-vscode" src="https://raw.githubusercontent.com/wraith13/sysinfo-vscode/master/images/infohex.128.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> 拡張一覧を含む vscode のシステム情報を Markdown あるいは JSON で取得できます。
+<img alt="System Information" src="https://raw.githubusercontent.com/wraith13/sysinfo-vscode/master/images/infohex.128.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> 拡張一覧を含む vscode のシステム情報を Markdown あるいは JSON で取得できます。
 
 ![screenshot](https://raw.githubusercontent.com/wraith13/sysinfo-vscode/master/images/screenshot.png)
+
+### [Unsaved Files](https://marketplace.visualstudio.com/items?itemName=wraith13.unsaved-files-vscode)
+
+<img alt="Unsaved Files" src="https://raw.githubusercontent.com/wraith13/unsaved-files-vscode/master/images/unsavedhex.128.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> 未保存ファイルへのお手軽なアクセス UI を提供します。
+
+![screenshot](https://raw.githubusercontent.com/wraith13/unsaved-files-vscode/master/images/screenshot.png)
 
 ## end of document
 
