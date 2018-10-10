@@ -24,6 +24,7 @@
 
 - [README](README.md)
 - [@wraith13](wraith13.md)
+- [home](home.md)
 
 <!--[/NOWRITING]-->
 
