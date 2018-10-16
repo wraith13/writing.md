@@ -65,8 +65,8 @@ class: center, middle
 {
     "theme":
     [
-        "../theme/chocolate.css",
-        "../animation/fade.css"
+        "@theme/chocolate.css",
+        "@animation/fade.css"
     ]
 }
 -->
