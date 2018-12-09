@@ -5,13 +5,6 @@
 この markdown の表示用URL: <a rel="canonical" href="https://wraith13.github.io/writing/">https://wraith13.github.io/writing/</a>
 <!--[/NOWRITING]-->
 
-<!--[WRTING-CONFING]
-{
-    "title": "writing index",
-    "theme": ["@theme/default.css"],
-    "withIndex": true
-}
--->
 <!--[REMARK-CONFIG]
 {
     "ratio": "16:9"
