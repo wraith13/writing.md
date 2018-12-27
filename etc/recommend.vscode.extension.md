@@ -96,6 +96,14 @@
 
 ![screenshot](https://raw.githubusercontent.com/IBM-Bluemix/vscode-log-output-colorizer/master/github-assets/screenshot-1.jpg)
 
+## 図関連 VSCODE 拡張
+
+### [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
+
+<img alt="Markdown Preview Mermaid Support" src="https://raw.githubusercontent.com/mjbvz/vscode-markdown-mermaid/master/resources/logo.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> markdown のプレビューで mermaid による図をレンダリングしてくれます。
+
+![screenshot](https://github.com/mjbvz/vscode-markdown-mermaid/raw/master/docs/example.png)
+
 ## 拙作の VSCODE 拡張
 
 ### [wandbox-vscode](https://marketplace.visualstudio.com/items?itemName=wraith13.wandbox-vscode)
