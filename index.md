@@ -19,8 +19,6 @@
 - [@wraith13](wraith13.md)
 - [home](home.md)
 
-<!--[/NOWRITING]-->
-
 ## [splatoon2 基礎講座](splatoon2/index.md)
 
 ## etc
@@ -30,9 +28,16 @@
 
 ## writing rendering system
 
+<!--[NOWRITING]-->
 - [GitHub(repository)](https://github.com/wraith13/writing)
 - [README](https://wraith13.github.io/writing/?@README.md)
 - [demo](https://wraith13.github.io/writing/?@demo/index.md)
+<!--[/NOWRITING]-->
+<!--[WRITING/]
+- [GitHub(repository)](https://github.com/wraith13/writing)
+- [README](@README.md)
+- [demo](@demo/index.md)
+-->
 
 <!--[WRITING/]
 ### instant
