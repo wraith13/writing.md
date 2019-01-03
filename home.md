@@ -1,5 +1,10 @@
 # 🏠 home
 
+<!--[NOWRITING]-->
+<link rel="canonical" href="https://wraith13.github.io/writing/?home.md" />
+この markdown の表示用URL: <a rel="canonical" href="https://wraith13.github.io/writing/?home.md">https://wraith13.github.io/writing/?home.md</a>
+<!--[/NOWRITING]-->
+
 ## 🔍 search
 
 <input id="query-input" style="width:30vw;font-size:1em;line-height:1em;padding:0.2em;" onkeydown="if (13===arguments[0].keyCode) { location.href='https://www.google.com/search?ie=utf-8&amp;oe=utf-8&amp;q='+encodeURIComponent(document.getElementById('query-input').value); }"> <button onclick="location.href='https://www.google.com/search?ie=utf-8&amp;oe=utf-8&amp;q='+encodeURIComponent(document.getElementById('query-input').value);" style="font-size:1em;line-height:1em;padding:0.2em;">🔍 google</button> <button onclick="location.href='https://github.com/search?q='+encodeURIComponent(document.getElementById('query-input').value);" style="font-size:1em;line-height:1em;padding:0.2em;">🔍 github</button> <button onclick="location.href='https://ejje.weblio.jp/content/'+encodeURIComponent(document.getElementById('query-input').value);" style="font-size:1em;line-height:1em;padding:0.2em;">🔍 weblio</button> <button onclick="location.href='https://twitter.com/search?src=typd&amp;q='+encodeURIComponent(document.getElementById('query-input').value);" style="font-size:1em;line-height:1em;padding:0.2em;">🔍 twitter</button> <button onclick="location.href='https://twitter.com/intent/tweet?text='+encodeURIComponent(document.getElementById('query-input').value);" style="font-size:1em;line-height:1em;padding:0.2em;">✒ tweet</button>
