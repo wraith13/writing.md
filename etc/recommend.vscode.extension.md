@@ -78,6 +78,12 @@
 
 ![screenshot](https://raw.githubusercontent.com/CoenraadS/BracketPair/master/images/example.png)
 
+### [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+
+<img alt="indent-rainbow" src="https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/icon.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> インデントの深さ別に着色してくれます。
+
+![screenshot](https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/example.png)
+
 ### [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 
 <img alt="Rainbow CSV" src="https://raw.githubusercontent.com/mechatroner/vscode_rainbow_csv/master/rainbow_csv_logo.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> CSVのカラム毎に異なる色で着色してくれます。(TSVにも対応)
