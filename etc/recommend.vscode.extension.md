@@ -72,6 +72,12 @@
 
 ## 着色系 VSCODE 拡張
 
+### [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
+
+<img alt="Rainglow" src="https://raw.githubusercontent.com/rainglow/vscode/master/icon.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> 非常に多彩なカラーテーマ集です。 ⚠ あまりに大量のカラーテーマが含まれており、この拡張をインストールするとカラーテーマの一覧がほぼこの拡張のカラーテーマで埋まります。
+
+![logo](https://raw.githubusercontent.com/rainglow/examples/master/artwork/header.png)
+
 ### [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
 <img alt="Bracket Pair Colorizer" src="https://raw.githubusercontent.com/CoenraadS/BracketPair/master/images/icon.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> 対となる括弧を同じ色で着色してくれたり、対となる括弧間に線を描画してくれたりします。
