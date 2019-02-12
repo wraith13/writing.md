@@ -23,7 +23,7 @@
 
 ## etc
 
-- [オススメの VSCODE 拡張](etc/recommend.vscode.extension.md)
+- [オススメの VS Code 拡張](etc/recommend.vscode.extension.md)
 - [List of Vivaldi URLs](etc/vivaldi.md)
 
 ## writing rendering system

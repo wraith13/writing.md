@@ -1,4 +1,4 @@
-# オススメの VSCODE 拡張
+# オススメの VS Code 拡張
 
 <!--[NOWRITING]-->
 <link rel="canonical" href="https://wraith13.github.io/writing/?etc%2Frecommend.vscode.extension.md" />
@@ -26,11 +26,9 @@
 -->
 <!--[/REMARK]-->
 
-<img alt="writinghex" src="@writinghex.128.png" style="display:block;width:128px;height:128px;margin-left:auto;margin-right:auto;border-style:none;background:none;box-shadow:none;">
+<!--[WRITING/]<span style="font-size:0.7em;width:450px;white-space:pre;">[markdown](?markdown) | [remark](?remark) | [reveal](?reveal)</span>-->
 
-<!--[WRITING/]<span style="display:block;margin-left:auto;margin-right:auto;font-size:0.7em;width:450px;text-align:center;white-space:pre;">[markdown](?markdown) | [remark](?remark) | [reveal](?reveal)</span>-->
-
-<!--[NOWRITING/]## コード関連 VSCODE 拡張-->
+<!--[NOWRITING/]## コード関連 VS Code 拡張-->
 
 <!--[NOWRITING/]
 こちらの拡張は vscode 本体に同様の機能が組み込まれた為、公開が中止されました。
@@ -50,7 +48,7 @@
 ![screenshot](https://raw.githubusercontent.com/amos402/vscode-scope-bar/master/images/feature-1.jpg)
 -->
 
-## ファイル関連 VSCODE 拡張
+## ファイル関連 VS Code 拡張
 
 ### [Active File in StatusBar](https://marketplace.visualstudio.com/items?itemName=RoscoP.ActiveFileInStatusBar)
 
@@ -70,7 +68,7 @@
 
 ![screenshot](https://raw.githubusercontent.com/zabel-xyz/local-history/master/images/Tree.png)
 
-## 着色系 VSCODE 拡張
+## 着色系 VS Code 拡張
 
 ### [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
 
@@ -108,7 +106,7 @@
 
 ![screenshot](https://raw.githubusercontent.com/IBM-Bluemix/vscode-log-output-colorizer/master/github-assets/screenshot-1.jpg)
 
-## 図関連 VSCODE 拡張
+## 図関連 VS Code 拡張
 
 ### [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
 
@@ -116,7 +114,7 @@
 
 ![screenshot](https://github.com/mjbvz/vscode-markdown-mermaid/raw/master/docs/example.png)
 
-## 拙作の VSCODE 拡張
+## 拙作の VS Code 拡張
 
 ### [wandbox-vscode](https://marketplace.visualstudio.com/items?itemName=wraith13.wandbox-vscode)
 
