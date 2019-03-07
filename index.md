@@ -50,3 +50,7 @@
 
 <input id="url-input" style="width:30vw;font-size:1em;line-height:1em;padding:0.2em;"> <button onclick="location.href='?'+encodeURIComponent(document.getElementById('url-input').value);" style="font-size:1em;line-height:1em;padding:0.2em;">開く</button>
 -->
+
+## others
+
+- [プライバシーポリシー](privacy.policy.md)
