@@ -82,11 +82,14 @@
 
 ![screenshot](https://raw.githubusercontent.com/CoenraadS/BracketPair/master/images/example.png)
 
+<!--[NOWRITING/]
+類似した拡張 Background Phi Colors を自作した為、そちらを推奨します。
 ### [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
 <img alt="indent-rainbow" src="https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/icon.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> インデントの深さ別に着色してくれます。
 
 ![screenshot](https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/example.png)
+-->
 
 ### [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 
@@ -143,6 +146,12 @@
 <img alt="Unsaved Files" src="https://raw.githubusercontent.com/wraith13/unsaved-files-vscode/master/images/unsavedhex.128.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> 未保存ファイルへのお手軽なアクセス UI を提供します。
 
 ![screenshot](https://raw.githubusercontent.com/wraith13/unsaved-files-vscode/master/images/screenshot.png)
+
+### [Background Phi Colors](https://marketplace.visualstudio.com/items?itemName=wraith13.background-phi-colors)
+
+<img alt="Background Phi Colors" src="https://raw.githubusercontent.com/wraith13/background-phi-colors-vscode/master/images/phihex.128.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> テキストの背景を様々に着色します。
+
+![screenshot](https://github.com/wraith13/background-phi-colors-vscode/raw/master/images/screenshot/demo.gif)
 
 ## end of document
 
