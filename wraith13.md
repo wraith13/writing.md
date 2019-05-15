@@ -51,6 +51,10 @@ class: center, middle
   - <https://qiitadon.com/@wraith13>
   - <https://freezepeach.xyz/wraith13>
 
+## Software release
+
+- <https://twitter.com/i/moments/885896995545661440>
+
 ## Writing
 
 - github.io: <https://wraith13.github.io/writing/>
