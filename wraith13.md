@@ -42,7 +42,6 @@ class: center, middle
 - Twitter: <https://twitter.com/wraith13>
 - GitHub: <https://github.com/wraith13>
 - Mastodon
-  - <https://friends.nico/@wraith13>
   - <https://mastodon.cloud/@wraith13>
   - <https://mastodon.social/@wraith13>
   - <https://ika.queloud.net/@wraith13>
