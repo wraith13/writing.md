@@ -23,6 +23,7 @@
 
 ## etc
 
+- [I am the evil.](etc/i.am.the.evil.md)
 - [クソコードの果てに](etc/fxxking.code.md)
 - [オススメの VS Code 拡張](etc/recommend.vscode.extension.md)
 - [List of Vivaldi URLs](etc/vivaldi.md)
