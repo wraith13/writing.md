@@ -153,6 +153,12 @@
 
 ![screenshot](https://github.com/wraith13/background-phi-colors-vscode/raw/master/images/screenshot/demo.gif)
 
+### [Open In GitHub Desktop](https://marketplace.visualstudio.com/items?itemName=wraith13.open-in-github-desktop)
+
+<img alt="Open In GitHub Desktop" src="https://raw.githubusercontent.com/wraith13/open-in-github-desktop-vscode/master/images/open-in-github-desktop.128.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> VS Code で開いてるフォルダの Git リポジトリを GitHub Desktop で開く為だけのモノです。 ( GitHub Desktop から VS Code で開けるのに逆の手段が提供されてなくて地味に不便だったので )
+
+![screenshot](https://raw.githubusercontent.com/wraith13/open-in-github-desktop-vscode/master/images/screenshot.png)
+
 ## end of document
 
 - [writing へ戻る](../index.md)
