@@ -26,7 +26,7 @@
 
 ## 🛠 tools
 
-<input id="amazon-url-input" placeholder="Amazon URL Shorter" style="width:30vw;font-size:1em;line-height:1em;padding:0.2em;" oninput="document.getElementById('amazon-url-link').href=document.getElementById('amazon-url-link').innerText=document.getElementById('amazon-url-input').value.trim().replace(/(https\:\/\/[^\/]*amazon[^\/]*)\/?.*\/dp\/(\w+)([^\w].*)?/, '$1/dp/$2');"> <a id="amazon-url-link"></a>
+<input id="amazon-url-input" placeholder="Amazon URL Shorter" style="width:30vw;font-size:1em;line-height:1em;padding:0.2em;" oninput="document.getElementById('amazon-url-link').href=document.getElementById('amazon-url-link').innerText=document.getElementById('amazon-url-input').value.trim().replace(/\/gp\/product\//, '/dp/').replace(/(https\:\/\/[^\/]*amazon[^\/]*)\/?.*\/dp\/(\w+)([^\w].*)?/, '$1/dp/$2');"> <a id="amazon-url-link"></a>
 
 ## 🔗 make link for markdown
 
