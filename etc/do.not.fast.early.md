@@ -1,5 +1,12 @@
 # 速くではなく早く
 
+<!--[NOWRITING]-->
+<link rel="canonical" href="https://wraith13.github.io/writing/?etc%2Fdo.not.fast.early.md" />
+この markdown の表示用URL: <a rel="canonical" href="https://wraith13.github.io/writing/?etc%2Fdo.not.fast.early.md">https://wraith13.github.io/writing/?etc%2Fdo.not.fast.early.md</a>
+<!--[/NOWRITING]-->
+
+著： [@wraith13](../wraith13.md)
+
 ## 速く(fast)やることのデメリット
 
 - パワーが必要でその分コストがかかる。
