@@ -159,6 +159,12 @@
 
 ![screenshot](https://raw.githubusercontent.com/wraith13/open-in-github-desktop-vscode/master/images/screenshot.png)
 
+### [Frame Phi Colors](https://marketplace.visualstudio.com/items?itemName=wraith13.frame-phi-colors)
+
+<img alt="Frame Phi Colors" src="https://raw.githubusercontent.com/wraith13/frame-phi-colors-vscode/master/images/phihex.128.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> hostname や開いてるフォルダーやテキストファイルのパス文字列を元に VS Code のタイトルバー、アクティビティバー、ステータスバーを自動的に着色します
+
+![screenshot](https://raw.githubusercontent.com/wraith13/frame-phi-colors-vscode/master/images/screenshot.png)
+
 ## end of document
 
 - [writing へ戻る](../index.md)
