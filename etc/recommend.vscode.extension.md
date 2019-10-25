@@ -165,6 +165,12 @@
 
 ![screenshot](https://raw.githubusercontent.com/wraith13/frame-phi-colors-vscode/master/images/screenshot.png)
 
+### [keep.grass](https://marketplace.visualstudio.com/items?itemName=wraith13.keep-grass)
+
+<img alt="keep.grass" src="https://raw.githubusercontent.com/wraith13/keep-grass-vscode/master/images/keep.grass.128.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> keep.grass は *毎日欠かさず* 進捗を出し続け GitHub 上の Contributions を緑で埋め続けようとする開発者の為に最後の Activity から24時間が経過するまでの残り時間を知らせる為のスマフォアプリ・・・だったんですが、その VS Code 拡張版です。オリジナルは更新停止しており、現状、もう使えなくなってるのでこちらをご利用ください。
+
+![screenshot](https://raw.githubusercontent.com/wraith13/keep-grass-vscode/master/images/screenshot.png)
+
 ## end of document
 
 - [writing へ戻る](../index.md)
