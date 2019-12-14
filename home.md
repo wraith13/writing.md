@@ -18,6 +18,7 @@
 
 - [twitter](https://twitter.com/wraith13)
 - [github](https://github.com/wraith13)
+- [slack](https://wraith13.slack.com/)
 
 ## 🔖 bookmark
 
