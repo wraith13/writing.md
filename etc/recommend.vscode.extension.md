@@ -76,6 +76,12 @@
 
 ![logo](https://raw.githubusercontent.com/rainglow/examples/master/artwork/header.png)
 
+### [Zenburn Dark Matter Theme](https://marketplace.visualstudio.com/items?itemName=nicola-granata.zenburn-dark-matter)
+
+<img alt="Zenburn Dark Matter Theme" src="https://raw.githubusercontent.com/nicolagranata/vscode-theme-zenburn-dark-matter/master/_gfx/zenburn-dark-matter-icon.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> Rainglow に比べると数でこそ劣りますが、なかなか良い感じのカラーテーマ集です。
+
+![logo](https://raw.githubusercontent.com/nicolagranata/vscode-theme-zenburn-dark-matter/master/_gfx/zenburn-dark-matter-cover.png)
+
 ### [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
 <img alt="Bracket Pair Colorizer" src="https://raw.githubusercontent.com/CoenraadS/BracketPair/master/images/icon.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> 対となる括弧を同じ色で着色してくれたり、対となる括弧間に線を描画してくれたりします。
