@@ -21,14 +21,18 @@
 
 ## [splatoon2 基礎講座](splatoon2/index.md)
 
+## programming
+
+- [クソコードの果てに](programming/fxxking.code.md)
+- [DELETEME と ARCHIVEME](programming/deleteme.md)
+- [オススメの VS Code 拡張](programming/recommend.vscode.extension.md)
+- [List of Vivaldi URLs](programming/vivaldi.md)
+
 ## etc
 
 - [I am the evil.](etc/i.am.the.evil.md)
-- [クソコードの果てに](etc/fxxking.code.md)
 - [速くではなく早く](etc/do.not.fast.early.md)
 - [探さないでください](etc/do.not.search.md)
-- [オススメの VS Code 拡張](etc/recommend.vscode.extension.md)
-- [List of Vivaldi URLs](etc/vivaldi.md)
 
 ## writing rendering system
 
