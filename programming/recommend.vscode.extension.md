@@ -50,11 +50,14 @@
 
 ## ファイル関連 VS Code 拡張
 
+<!--[NOWRITING/]
+こちらの拡張は作者がメンテナンスを放棄してしおり、バグ修正のプルリクもスルーされままなので、同様の拡張を自作しました。
 ### [Active File in StatusBar](https://marketplace.visualstudio.com/items?itemName=RoscoP.ActiveFileInStatusBar)
 
 <img alt="Active File in StatusBar" src="https://raw.githubusercontent.com/RoscoP/ActiveFileInStatusBar/master/media/icon.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> ファイルのフルパスをステータスバーに表示してくれます。
 
 ![screenshot](https://raw.githubusercontent.com/RoscoP/ActiveFileInStatusBar/master/media/ActiveFileInStatusBar.gif)
+-->
 
 ### [filesize](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize)
 
@@ -185,6 +188,12 @@
 <img alt="Clairvoyant" src="https://raw.githubusercontent.com/wraith13/clairvoyant-vscode/master/images/clairvoyanthex.128.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> コード中のトークンを全部列挙してそれらへのアクセスを提供します。飛び先のプレビューと入力補完の効いた検索機能とかそんな感じのモノです。
 
 ![screenshot](https://raw.githubusercontent.com/wraith13/clairvoyant-vscode/master/images/screenshot4.png)
+
+### [File Path Bar](https://marketplace.visualstudio.com/items?itemName=wraith13.file-path-bar)
+
+<img alt="Clairvoyant" src="https://raw.githubusercontent.com/wraith13/file-path-bar-vscode/master/images/pathhex.128.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> ファイルのフルパスをステータスバーに表示します。
+
+![screenshot](https://raw.githubusercontent.com/wraith13/file-path-bar-vscode/master/images/screenshot.png)
 
 ## end of document
 
