@@ -1,8 +1,8 @@
 # クソコードの果てに
 
 <!--[NOWRITING]-->
-<link rel="canonical" href="https://wraith13.github.io/writing/?etc%2Ffxxking.code.md" />
-この markdown の表示用URL: <a rel="canonical" href="https://wraith13.github.io/writing/?etc%2Ffxxking.code.md">https://wraith13.github.io/writing/?etc%2Ffxxking.code.md</a>
+<link rel="canonical" href="https://wraith13.github.io/writing/?programming%2Ffxxking.code.md" />
+この markdown の表示用URL: <a rel="canonical" href="https://wraith13.github.io/writing/?programming%2Ffxxking.code.md">https://wraith13.github.io/writing/?programming%2Ffxxking.code.md</a>
 <!--[/NOWRITING]-->
 
 著： [@wraith13](../wraith13.md)
