@@ -191,7 +191,7 @@
 
 ### [File Path Bar](https://marketplace.visualstudio.com/items?itemName=wraith13.file-path-bar)
 
-<img alt="Clairvoyant" src="https://raw.githubusercontent.com/wraith13/file-path-bar-vscode/master/images/pathhex.128.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> ファイルのフルパスをステータスバーに表示します。
+<img alt="File Path Bar" src="https://raw.githubusercontent.com/wraith13/file-path-bar-vscode/master/images/pathhex.128.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> ファイルのフルパスをステータスバーに表示します。
 
 ![screenshot](https://raw.githubusercontent.com/wraith13/file-path-bar-vscode/master/images/screenshot.png)
 
