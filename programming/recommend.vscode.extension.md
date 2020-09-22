@@ -48,6 +48,14 @@
 ![screenshot](https://raw.githubusercontent.com/amos402/vscode-scope-bar/master/images/feature-1.jpg)
 -->
 
+## コード関連 VS Code 拡張
+
+### [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+
+<img alt="Error Lens" src="https://usernamehw.gallerycdn.vsassets.io/extensions/usernamehw/errorlens/3.2.1/1598202477217/Microsoft.VisualStudio.Services.Icons.Default" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> エラーや警告をコードの行末に表示してくれます。
+
+![screenshot](https://raw.githubusercontent.com/usernamehw/vscode-error-lens/master/img/demo.png)
+
 ## ファイル関連 VS Code 拡張
 
 <!--[NOWRITING/]
@@ -61,7 +69,7 @@
 
 ### [filesize](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize)
 
-<img alt="Active File in StatusBar" src="https://raw.githubusercontent.com/mkxml/vscode-filesize/master/icon.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> ファイルのサイズをステータスバーに表示してくれます。
+<img alt="filesize" src="https://raw.githubusercontent.com/mkxml/vscode-filesize/master/icon.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> ファイルのサイズをステータスバーに表示してくれます。
 
 ![screenshot](https://camo.githubusercontent.com/77266295520c09b0860e7f504d4e532253251922/68747470733a2f2f636c6475702e636f6d2f5f5935324f2d55666b4b2e6a7067)
 
