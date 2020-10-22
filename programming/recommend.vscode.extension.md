@@ -93,9 +93,12 @@
 
 ![logo](https://raw.githubusercontent.com/nicolagranata/vscode-theme-zenburn-dark-matter/master/_gfx/zenburn-dark-matter-cover.png)
 
+<!--[NOWRITING/]
+類似した拡張 Bracket Lens を自作した為、そちらを推奨します。
 ### [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
 <img alt="Bracket Pair Colorizer" src="https://raw.githubusercontent.com/CoenraadS/BracketPair/master/images/icon.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> 対となる括弧を同じ色で着色してくれたり、対となる括弧間に線を描画してくれたりします。
+-->
 
 ![screenshot](https://raw.githubusercontent.com/CoenraadS/BracketPair/master/images/example.png)
 
@@ -202,6 +205,18 @@
 <img alt="File Path Bar" src="https://raw.githubusercontent.com/wraith13/file-path-bar-vscode/master/images/pathhex.128.png" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> ファイルのフルパスをステータスバーに表示します。
 
 ![screenshot](https://raw.githubusercontent.com/wraith13/file-path-bar-vscode/master/images/screenshot.png)
+
+### [Blitz](https://marketplace.visualstudio.com/items?itemName=wraith13.blitz)
+
+<img alt="Blitz" src="https://wraith13.gallerycdn.vsassets.io/extensions/wraith13/blitz/1.10.0/1600673285404/Microsoft.VisualStudio.Services.Icons.Default" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> Quick Pick ベースの UI に素早く且つ手軽に設定変更できます。
+
+![screenshot](https://github.com/wraith13/blitz-vscode/raw/master/images/screenshot.0.png)
+
+### [Bracket Lens](https://marketplace.visualstudio.com/items?itemName=wraith13.file-path-bar)
+
+<img alt="Bracket Lens" src="https://wraith13.gallerycdn.vsassets.io/extensions/wraith13/bracket-lens/1.0.0/1603272166087/Microsoft.VisualStudio.Services.Icons.Default" style="width:32px;height:32px;border-style:none;background:none;box-shadow:none;"> 閉じ括弧の後ろにそのスコープがなんのスコープかを表示します。
+
+![screenshot](https://github.com/wraith13/bracket-lens-vscode/raw/master/images/screenshot2.png)
 
 ## end of document
 
