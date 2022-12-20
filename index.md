@@ -33,6 +33,7 @@
 - [I am the evil.](etc/i.am.the.evil.md)
 - [速くではなく早く](etc/do.not.fast.early.md)
 - [探さないでください](etc/do.not.search.md)
+- [正気と狂気](etc/sanity.and.insanity.md)
 
 ## writing rendering system
 
