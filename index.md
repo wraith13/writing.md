@@ -34,6 +34,7 @@
 - [速くではなく早く](etc/do.not.fast.early.md)
 - [探さないでください](etc/do.not.search.md)
 - [正気と狂気](etc/sanity.and.insanity.md)
+- [汝の敵を救え！](etc/save.your.enemy.md)
 
 ## writing rendering system
 
