@@ -41,6 +41,7 @@ class: center, middle
 
 - Twitter: <https://twitter.com/wraith13>
 - GitHub: <https://github.com/wraith13>
+- Bluesky: <https://bsky.app/profile/wraith13.bsky.social>
 - Mastodon
   - <https://mastodon.cloud/@wraith13>
   - <https://mastodon.social/@wraith13>
