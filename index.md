@@ -24,6 +24,7 @@
 ## programming
 
 - [クソコードの果てに](programming/fxxking.code.md)
+- [最良のコード](programming/best.code.md)
 - [DELETEME と ARCHIVEME](programming/deleteme.md)
 - [オススメの VS Code 拡張](programming/recommend.vscode.extension.md)
 - [List of Vivaldi URLs](programming/vivaldi.md)
