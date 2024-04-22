@@ -251,7 +251,7 @@
 ## 関連記事
 
 - [クソコードの果てに](fxxking.code.md)
-- [正気の狂気](../etc/sanity.and.insanity.md)
+- [正気と狂気](../etc/sanity.and.insanity.md)
 
 ## end of document
 
