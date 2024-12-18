@@ -59,6 +59,7 @@ class: center, middle
 ## Writing
 
 - github.io: <https://wraith13.github.io/writing/>
+- Qiita: <https://qiita.com/wraith13>
 - SlideShare: <https://www.slideshare.net/wraith13>
 
 ## end of document
