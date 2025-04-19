@@ -37,6 +37,7 @@
 - [探さないでください](etc/do.not.search.md)
 - [正気と狂気](etc/sanity.and.insanity.md)
 - [汝の敵を救え！](etc/save.your.enemy.md)
+- [Nintendo Switch 2 のゲームチャット機能でアバターを利用しよう！](etc/nintendo.switch2.gamechat.with.avatar.md)
 
 ## writing rendering system
 
